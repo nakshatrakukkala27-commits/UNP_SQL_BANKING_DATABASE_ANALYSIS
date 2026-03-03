@@ -1,5 +1,5 @@
 #UNP_SQL_BANKING_DATABASE_ANALYSIS
 
-DESCRIPTION:This is a Banking Management System project built using MySQL. It contains tables for customers, accounts, transactions, loans, cards, and branches. The tables are connected using common columns like customer_id and acc_num. I used primary keys, unique constraints, joins, update queries, and aggregate functions such as SUM and COUNT. The project demonstrates how banking data can be structured, linked, and managed efficiently using SQL.
+DESCRIPTION:This is a Banking Management System project built using MySQL. It contains tables for customers, accounts,transactions, loans, cards, and branches. The tables are connected using common columns like customer_id and acc_num. I used primary keys, unique constraints, joins, update queries, and aggregate functions such as SUM and COUNT. The project demonstrates how banking data can be structured, linked, and managed efficiently using SQL.
 
 PROJECT FILE:https://drive.google.com/file/d/1JLKcYGgSjRdIgUHhxTxNyQ3AgdUe_BYU/view?usp=sharing
